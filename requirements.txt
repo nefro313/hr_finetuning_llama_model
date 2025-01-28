@@ -1,0 +1,6 @@
+pandas
+pyarrow
+PyPDF2
+ipykernel
+datasets
+huggingface_hub
