@@ -28,5 +28,5 @@ text_generator = pipeline(task="text-generation", model=model ,tokenizer=tokeniz
 
 # Generate text
 generated_text = text_generator(f'how to answers this question."{prompt}"')
-print(generated_text[0]['generated_text'])
+
 # Output the generated text
