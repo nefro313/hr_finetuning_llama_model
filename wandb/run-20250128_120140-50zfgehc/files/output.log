@@ -1,0 +1,17 @@
+Generating train split: 100%|██████████| 26/26 [00:00<00:00, 197.03 examples/s]
+Generating test split: 100%|██████████| 8/8 [00:00<00:00, 2427.96 examples/s]
+DatasetDict({
+    train: Dataset({
+        features: ['text'],
+        num_rows: 26
+    })
+    test: Dataset({
+        features: ['text'],
+        num_rows: 8
+    })
+})
+Dataset({
+    features: ['text'],
+    num_rows: 26
+})
+[34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.

@@ -4,3 +4,10 @@ PyPDF2
 ipykernel
 datasets
 huggingface_hub
+
+peft
+bitsandbytes
+transformers
+accelerate
+trl
+wandb

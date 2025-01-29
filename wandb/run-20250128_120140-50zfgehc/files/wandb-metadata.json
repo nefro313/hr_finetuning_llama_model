@@ -1,0 +1,43 @@
+{
+  "os":  "macOS-15.2-arm64-arm-64bit",
+  "python":  "CPython 3.11.8",
+  "startedAt":  "2025-01-28T06:31:41.864031Z",
+  "program":  "/Users/robinkphilip/Ml-LLM-Build/hr_finetuning_llama_model/finetuning_llm.ipynb",
+  "codePath":  "finetuning_llm.ipynb",
+  "git":  {
+    "commit":  "2a9d5cc921489d40041dfa97b5235f5d0b037d1e"
+  },
+  "email":  "robinkphilip2001@gmail.com",
+  "root":  "/Users/robinkphilip/Ml-LLM-Build/hr_finetuning_llama_model",
+  "host":  "Robins-MacBook-Air.local",
+  "executable":  "/opt/anaconda3/envs/finetuning-hr-chatbot/bin/python",
+  "codePathLocal":  "finetuning_llm.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "164713013248"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "164713013248"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  7,
+    "memoryGb":  8,
+    "swapTotalBytes":  "4294967296",
+    "ramTotalBytes":  "8589934592"
+  }
+}
